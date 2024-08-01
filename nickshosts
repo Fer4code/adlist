@@ -109,7 +109,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 client-s.gateway.messenger.live.com
 0.0.0.0 clientconfig.passport.net
-0.0.0.0 clients.config.office.net
 0.0.0.0 co2.sls.microsoft.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
@@ -322,11 +321,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 otf.msn.com
-0.0.0.0 outlook-1.cdn.office.net
-0.0.0.0 outlook-ca-emeawest2.office365.com
-0.0.0.0 outlook-emeawest2.office365.com
-0.0.0.0 outlook.live.com
-0.0.0.0 outlookmobile-office365-tas.msedge.net
 0.0.0.0 packages.dmd.metaservices.microsoft.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pstrgqp01.blob.core.windows.net
@@ -3600,17 +3594,6 @@ osl21prdapp02-canary-opaph.norwayeast.cloudapp.azure.com
 osl-mvp.trafficmanager.net
 otf.msn.com
 outbrain.map.fastly.net
-outlook.ha.office365.com
-outlook.live.com
-outlook.ms-acdc.office.com
-outlook.office.com
-outlook.office365.com
-outlook-1.cdn.office.net
-outlook-1.cdn.office.net-c.edgekey.net
-outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
-outlook-base.ms-acdc.office.com
-outlookmobile-office365-tas.msedge.net
-outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 ow1.res.office365.com
 ow1.res.office365.com.edgekey.net
 ow2.res.office365.com.edgekey.net
@@ -3787,7 +3770,6 @@ remoteassistance.support.services.microsoft.com
 remoteassistance.support.services.microsoft.com.edgekey.net
 reports.wes.df.telemetry.microsoft.com
 requality.microsoft.com
-res.cdn.office.net
 res-1.cdn.office.net
 res-1.cdn.office.net-c.edgekey.net
 res-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
@@ -4439,7 +4421,6 @@ www.msftconnecttest.com
 www.msn.com
 www.office.com
 www.onedrive.com
-www.outlook.com
 www.sway.com
 www.telecommandsvc.microsoft.com
 www.tiktok.com.edgesuite.net
