@@ -1432,7 +1432,6 @@ apps.identrust.com
 apps.skype.com
 appsforoffice.microsoft.com
 appsforoffice.microsoft.com.edgekey.net
-apresolve.spotify.com
 arc.msn.com
 arc.msn.com.nsatc.net
 arc.msn.com-nsatc.net
@@ -1953,7 +1952,6 @@ clientconfig.microsoftonline-p.net
 clientconfig.passport.net
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
-clienttoken.spotify.com
 cloudapp.azure.com
 cloudtile.photos.microsoft.com
 cluster-e.playfabapi.com
@@ -2661,9 +2659,7 @@ edgeservices.bing.comewww.bing.com
 edge-skype-com.s-0001.s-msedge.net
 edgetipscdn.microsoft.com
 edge-usw2.demdex.net
-edge-web.dual-gslb.spotify.com
 edge-web-gu
-edge-web-guc3.dual-gslb.spotify.com
 ef1a2b64eccfdbdc3c6d937c8d8b5b31.clo.footprintdns.com
 elasticafd-footprint-0d855e84-e893-47bd-84fd-b5568a836b09.azureedge.us
 elasticShed.au.au-msedge.net
@@ -2885,8 +2881,6 @@ graystore.c-0001.c-msedge.net
 greenid-prod-pme.westus2.cloudapp.azure.com
 gslb-2.demdex.net
 gstaticadssl.l.google.com
-guc3-spclient.spotify.com
-guc3-spclient.spotify.comguc3-spclient.spotify.com
 gum.criteo.com
 gum.da1.vip.prod.criteo.com
 gva20prdapp03-canary.netmon.azure.com
@@ -3953,7 +3947,6 @@ solitaireevents.microsoftcasualgames.com
 solitaireprod.maelstrom.xboxlive.com
 sparkcdnwus2.akstd.azureedge.net
 sparkcdnwus2.azureedge.net
-spclient.wg.spotify.com
 spo-9999.spo-dc-msedge.net
 spo-9999.spo-msedge.net
 spoppe-b.azureedge.net
