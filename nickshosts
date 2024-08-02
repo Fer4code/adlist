@@ -595,7 +595,6 @@ ff02::3 ip6-allhosts
 1.cpm.ak-is2.net
 1.msftsrvcs.vo.llnwi.net
 1.perf.msedge.net
-108-174-10-14.fwd.linkedin.com
 10ecee009e61280c2b7fec0e05e963e0.clo.footprintdns.com
 11.au.download.windowsupdate.com
 11.tlu.dl.delivery.mp.microsoft.com
@@ -1397,8 +1396,6 @@ analytics.ccs.mcafee.com
 analyticsdcs.ccs.mcafee.com
 answers.microsoft.com
 any.edge.bing.com
-any-na.mix.linkedin.com
-any-na-lx.mix.linkedin.com
 apac1.notify.windows.com.akadns.net
 api.amplitude.com
 api.appcues.net
@@ -1802,7 +1799,6 @@ cdn.atdmt.com
 cdn.configcat.com
 cdn.content.prod.cms.msn.com
 cdn.content.prod.cms.msn.com.edgekey.net
-cdn.linkedin.oribi.io
 cdn.odc.officeapps.live.com
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
@@ -2722,7 +2718,6 @@ exo-9999.exo-msedge.net
 exo-ring.exo-9999.exo-msedge.net
 exo-ring.msedge.net
 exo-ring-fallback.msedge.net
-exp1.www.linkedin.com
 extended-web-vortex-data.trafficmanager.net
 f0267cfbfb9a9a5463dabd5649ebe140.clo.footprintdns.com
 f0da3c9b82add3149af8e1c72c497fa0.clo.footprintdns.com
@@ -3241,7 +3236,6 @@ microsoftedge-microsoft-com.b-0005.b-msedge.net
 microsoftedgewelcome.microsoft.com
 microsoftmscompoc.tt.omtrdc.net
 mira.config.skype.com
-mix.linkedin.com
 ml1prdapp01-canary.netmon.azure.com
 mlccdn.blob.core.windows.net
 mlccdnprod.azureedge.net
@@ -3803,9 +3797,6 @@ rtb-csync.smartadserver.com
 rtb-csync-geo.usersync-prod-sas.akadns.net
 rtb-csync-tmk.smartadserver.com
 rtb-usw.mfadsrvr.com
-rum14.perf.linkedin.com
-rum18.perf.linkedin.com
-rum8.perf.linkedin.com
 rw.yieldmo.com
 rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 s.gateway.messenger.live.com
@@ -4411,7 +4402,6 @@ www.bing.comwww.bing.com
 www.bingapis.com
 www.clarity.ms
 www.google-analytics.com
-www.linkedin.com
 www.microsoft.com
 www.microsoft.com-c-3.edgekey.net
 www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
@@ -4441,9 +4431,7 @@ www2.bing.com
 www2-www2.bing.com.trafficmanager.net
 www-bingapis-com.e-0001.e-msedge.net
 www-bing-com.dual-a-0001.a-msedge.net
-www-linkedin-com.l-0005.l-msedge.net
 www-msn-com.a-0003.a-msedge.net
-www-src.linkedin.com
 www-www.bing.com.trafficmanager.net
 www-www.bing.com.trafficmanager.net
 www-xboxab-com.e-0012.e-msedge.net
