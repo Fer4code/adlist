@@ -195,7 +195,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 licensingphone.md.mp.microsoft.com
 0.0.0.0 location-inference-westus.cloudapp.net
-0.0.0.0 login.live.com
 0.0.0.0 login.msa.akadns6.net
 0.0.0.0 login.msa.msidentity.com
 0.0.0.0 login.windows.net
@@ -226,7 +225,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 officecdn.microsoft.com.edgesuite.net
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 officehomeblobs.blob.core.windows.net
-0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onedrive.live.com
 0.0.0.0 onedriveclucprodbn20001.blob.core.windows.net
 0.0.0.0 onedriveclucprodbn20002.blob.core.windows.net
@@ -4474,4 +4472,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 wd-prod-cp-us.trafficmanager.net
 0.0.0.0 sevillecloudgateway-eus-prd.trafficmanager.net
 0.0.0.0 www.bingapis.com
-
