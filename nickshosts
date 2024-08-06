@@ -4472,3 +4472,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 wd-prod-cp-us.trafficmanager.net
 0.0.0.0 sevillecloudgateway-eus-prd.trafficmanager.net
 0.0.0.0 www.bingapis.com
+0.0.0.0 filedownload.lenovo.com.akadns.net
+0.0.0.0 chifsr.lenovomm.com
+0.0.0.0 api.mobiletop.pro
+0.0.0.0 i.ytimg.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 remoteprovisioning.googleapis.com
+0.0.0.0 spot-pa.googleapis.com
+0.0.0.0 sso.lenovo.com
+0.0.0.0 unitedstates.smartscreen.microsoft.com
