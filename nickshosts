@@ -1292,11 +1292,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 a-9999.a-msedge.net
 0.0.0.0 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 0.0.0.0 a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
-0.0.0.0 aadcdn.msauth.ne
-0.0.0.0 aadcdn.msauth.net
-0.0.0.0 aadcdn.msftauth.net
-0.0.0.0 aadcdnoriginwus2.afd.azureedge.net
-0.0.0.0 aadcdnoriginwus2.azureedge.net
 0.0.0.0 ac3.msn.com
 0.0.0.0 account.activedirectory.windowsazure.com
 0.0.0.0 account.live.com
