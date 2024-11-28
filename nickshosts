@@ -111,7 +111,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clientconfig.passport.net
 0.0.0.0 co2.sls.microsoft.com
 0.0.0.0 config.edge.skype.com
-0.0.0.0 config.teams.microsoft.com
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 crl.microsoft.com
 0.0.0.0 cs.dds.microsoft.com
@@ -1975,7 +1974,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 config.edge.skype.com.trafficmanager.net
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.officeapps.live.com
-0.0.0.0 config.teams.microsoft.com
 0.0.0.0 config.teams.trafficmanager.net
 0.0.0.0 config-cd-dmgz.bamgrid.com
 0.0.0.0 config-edge-skype.l-0007.l-msedge.net
